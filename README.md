@@ -18,7 +18,6 @@ return (
 
 This will be showed in Thumbnails.jsx
 
-11) https://www.youtube.com/watch?v=e_UZ6jMGJ0s&list=PLpaspowtqj-f9-5g2Rc1dWm1n2_nNfIl6&index=2
 
 time: 9.19
 
