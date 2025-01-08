@@ -23,8 +23,6 @@ time: 9.19
 
 12) Makiong thumbnails 
 
-https://www.youtube.com/watch?v=MxY0uxbG630
-
 13) Search Function 
 
 14) Tags Bar done
